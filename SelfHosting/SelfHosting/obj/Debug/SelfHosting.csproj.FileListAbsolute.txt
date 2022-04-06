@@ -23,3 +23,28 @@ C:\Users\USER\source\repos\SelfHosting\SelfHosting\obj\Debug\SelfHosting.csproj.
 C:\Users\USER\source\repos\SelfHosting\SelfHosting\obj\Debug\SelfHosting.csproj.CopyComplete
 C:\Users\USER\source\repos\SelfHosting\SelfHosting\obj\Debug\SelfHosting.exe
 C:\Users\USER\source\repos\SelfHosting\SelfHosting\obj\Debug\SelfHosting.pdb
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\SelfHosting.exe.config
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\SelfHosting.exe
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\SelfHosting.pdb
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\Microsoft.Owin.Diagnostics.dll
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\Microsoft.Owin.dll
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\Owin.dll
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\System.Net.Http.Formatting.dll
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\System.Web.Http.dll
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\System.Web.Http.Owin.dll
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\Microsoft.Owin.xml
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\Microsoft.Owin.Diagnostics.xml
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\Microsoft.Owin.Hosting.xml
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\Newtonsoft.Json.xml
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\System.Net.Http.Formatting.xml
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\System.Web.Http.xml
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\bin\Debug\System.Web.Http.Owin.xml
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\obj\Debug\SelfHosting.csproj.AssemblyReference.cache
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\obj\Debug\SelfHosting.csproj.CoreCompileInputs.cache
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\obj\Debug\SelfHosting.csproj.CopyComplete
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\obj\Debug\SelfHosting.exe
+D:\Project\Dot\New folder\AspNetSelfHolt\SelfHosting\SelfHosting\obj\Debug\SelfHosting.pdb

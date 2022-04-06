@@ -1,11 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
-using System;
-using System.Threading.Tasks;
 using System.Web.Http;
 
 [assembly: OwinStartup(typeof(SelfHosting.Startup))]
-
 namespace SelfHosting
 {
     public class Startup
